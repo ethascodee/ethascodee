@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ethan
+- 👀 I’m interested in Infrastructure as Code, Security Tooling, and Automation.
+- 🌱 I’m currently learning whatever I can!
+- 📫 How to reach me ethanlross1996@gmail.com
